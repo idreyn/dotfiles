@@ -1,6 +1,8 @@
 Dotfiles
 ========
 
+This is a direct fork of [Anish Athalye's dotfiles](https://github.com/anishathalye/dotfiles) because I just like them so much.
+
 After cloning this repo, run `install.py` to automatically set up the
 development environment. Note that the install script is idempotent - running
 it multiple times has no effect.
