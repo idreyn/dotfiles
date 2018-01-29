@@ -2,7 +2,6 @@
 alias ls='ls --color=auto'
 alias ll='ls -l --color=auto'
 alias la='ls -la --color=auto'
-export GREP_OPTIONS="--color"
 
 # Use pip without requiring virtualenv
 function syspip() {
